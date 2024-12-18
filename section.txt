@@ -1,0 +1,463 @@
+									<section
+										class="elementor-section elementor-top-section elementor-element elementor-element-7a1bace elementor-hidden-mobile elementor-section-boxed elementor-section-height-default elementor-section-height-default"
+										data-id="7a1bace" data-element_type="section"
+										data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+										<div class="elementor-container elementor-column-gap-default">
+											<div class="elementor-column elementor-col-25 elementor-top-column elementor-element elementor-element-cf25fd1"
+												data-id="cf25fd1" data-element_type="column">
+												<div class="elementor-widget-wrap elementor-element-populated">
+													<div class="elementor-element elementor-element-da5ba09 elementor-widget elementor-widget-cz_image"
+														data-id="da5ba09" data-element_type="widget"
+														data-widget_type="cz_image.default">
+														<div class="elementor-widget-container">
+
+															<div class="cz_image clr cz_image_no_fx center_on_mobile">
+
+																<div>
+
+																	<div class="cz_image_in">
+
+																		<div class="cz_main_image"><img loading="lazy"
+																				decoding="async" width="128"
+																				height="128"
+																				src="data:image/svg+xml,%3Csvg%20xmlns%3D&#39;http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg&#39;%20width=&#39;128&#39;%20height=&#39;128&#39;%20viewBox%3D&#39;0%200%20128%20128&#39;%2F%3E"
+																				data-czlz
+																				data-src="https://takns.com/oil/wp-content/uploads/2024/09/oil-pump.png"
+																				class="attachment-full size-full wp-image-2293"
+																				alt="" /></div>
+
+																		<div class="cz_hover_image"><img loading="lazy"
+																				decoding="async" width="128"
+																				height="128"
+																				src="data:image/svg+xml,%3Csvg%20xmlns%3D&#39;http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg&#39;%20width=&#39;128&#39;%20height=&#39;128&#39;%20viewBox%3D&#39;0%200%20128%20128&#39;%2F%3E"
+																				data-czlz
+																				data-src="https://takns.com/oil/wp-content/uploads/2024/09/oil-pump.png"
+																				class="attachment-full size-full wp-image-2293"
+																				alt="" /></div>
+																	</div>
+
+
+																</div>
+
+															</div>
+
+														</div>
+													</div>
+													<div class="elementor-element elementor-element-1de3bbd elementor-widget elementor-widget-cz_title"
+														data-id="1de3bbd" data-element_type="widget"
+														data-widget_type="cz_title.default">
+														<div class="elementor-widget-container">
+
+															<div>
+																<div
+																	class="cz_title clr cz_mobile_text_center cz_title_pos_center tac">
+																	<div class="cz_title_content">
+																		<div class="cz_wpe_content">
+																			<h3 style="text-align: center;">Drilling and
+																				production services</h3>
+																		</div>
+																	</div>
+																</div>
+															</div>
+
+														</div>
+													</div>
+													<div class="elementor-element elementor-element-673f539 elementor-widget elementor-widget-cz_stylish_list"
+														data-id="673f539" data-element_type="widget"
+														data-widget_type="cz_stylish_list.default">
+														<div class="elementor-widget-container">
+															<ul
+																class="cz_stylish_list clr center_on_mobile cz_sl_icon_hover_none">
+																<li class="elementor-repeater-item-17e2414 clr">
+																	<div class="cz_sl_icon"><i
+																			class="mr10 fas fa-circle"></i></div>
+																	<div><span>Oil and gas well drilling services</span>
+																	</div>
+																</li>
+																<li class="elementor-repeater-item-a3d142a clr">
+																	<div class="cz_sl_icon"><i
+																			class="mr10 fas fa-circle"></i></div>
+																	<div><span>Well completion and rehabilitation
+																			services</span></div>
+																</li>
+																<li class="elementor-repeater-item-e3e853c clr">
+																	<div class="cz_sl_icon"><i
+																			class="mr10 fas fa-circle"></i></div>
+																	<div><span>Well maintenance and operations
+																			management services</span></div>
+																</li>
+																<li class="elementor-repeater-item-5726a48 clr">
+																	<div class="cz_sl_icon"><i
+																			class="mr10 fas fa-circle"></i></div>
+																	<div><span>Production optimization and enhanced
+																			recovery services for oil and gas</span>
+																	</div>
+																</li>
+															</ul>
+														</div>
+													</div>
+													<div class="elementor-element elementor-element-aaa288e elementor-widget elementor-widget-cz_button"
+														data-id="aaa288e" data-element_type="widget"
+														data-widget_type="cz_button.default">
+														<div class="elementor-widget-container">
+															<div class="cz_btn_center">
+																<div>
+																	<a href="services/index.html"
+																		class="cz_btn cz_btn_txt_move_right cz_btn_no_fx cz_btn_icon_after">
+
+																		<span> <strong>READ MORE </strong>
+																			<i class="czi czico-long-right-arrow"></i>
+																		</span>
+
+																		<b class="cz_btn_onhover">
+																			<strong>
+																				OUR SERVICES </strong>
+																			<i class="czi czico-long-right-arrow"></i>
+																		</b>
+
+																	</a>
+																</div>
+															</div>
+														</div>
+													</div>
+												</div>
+											</div>
+											<div class="elementor-column elementor-col-25 elementor-top-column elementor-element elementor-element-49fd58e"
+												data-id="49fd58e" data-element_type="column">
+												<div class="elementor-widget-wrap elementor-element-populated">
+													<div class="elementor-element elementor-element-6c002d2 elementor-widget elementor-widget-cz_image"
+														data-id="6c002d2" data-element_type="widget"
+														data-widget_type="cz_image.default">
+														<div class="elementor-widget-container">
+
+															<div class="cz_image clr cz_image_no_fx center_on_mobile">
+
+																<div>
+
+																	<div class="cz_image_in">
+
+																		<div class="cz_main_image"><img loading="lazy"
+																				decoding="async" width="128"
+																				height="128"
+																				src="data:image/svg+xml,%3Csvg%20xmlns%3D&#39;http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg&#39;%20width=&#39;128&#39;%20height=&#39;128&#39;%20viewBox%3D&#39;0%200%20128%20128&#39;%2F%3E"
+																				data-czlz
+																				data-src="https://takns.com/oil/wp-content/uploads/2024/09/factory.png"
+																				class="attachment-full size-full wp-image-2292"
+																				alt="" /></div>
+
+																		<div class="cz_hover_image"><img loading="lazy"
+																				decoding="async" width="128"
+																				height="128"
+																				src="data:image/svg+xml,%3Csvg%20xmlns%3D&#39;http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg&#39;%20width=&#39;128&#39;%20height=&#39;128&#39;%20viewBox%3D&#39;0%200%20128%20128&#39;%2F%3E"
+																				data-czlz
+																				data-src="https://takns.com/oil/wp-content/uploads/2024/09/factory.png"
+																				class="attachment-full size-full wp-image-2292"
+																				alt="" /></div>
+																	</div>
+
+
+																</div>
+
+															</div>
+
+														</div>
+													</div>
+													<div class="elementor-element elementor-element-1d0c527 elementor-widget elementor-widget-cz_title"
+														data-id="1d0c527" data-element_type="widget"
+														data-widget_type="cz_title.default">
+														<div class="elementor-widget-container">
+
+															<div>
+																<div
+																	class="cz_title clr cz_mobile_text_center cz_title_pos_center tac">
+																	<div class="cz_title_content">
+																		<div class="cz_wpe_content">
+																			<h3 style="text-align: center;">Oil supply
+																				services</h3>
+																		</div>
+																	</div>
+																</div>
+															</div>
+
+														</div>
+													</div>
+													<div class="elementor-element elementor-element-830c8fe elementor-widget elementor-widget-cz_stylish_list"
+														data-id="830c8fe" data-element_type="widget"
+														data-widget_type="cz_stylish_list.default">
+														<div class="elementor-widget-container">
+															<ul
+																class="cz_stylish_list clr center_on_mobile cz_sl_icon_hover_none">
+																<li class="elementor-repeater-item-17e2414 clr">
+																	<div class="cz_sl_icon"><i
+																			class="mr10 fas fa-circle"></i></div>
+																	<div><span>Supplying drilling and oil production
+																			equipment</span></div>
+																</li>
+																<li class="elementor-repeater-item-a3d142a clr">
+																	<div class="cz_sl_icon"><i
+																			class="mr10 fas fa-circle"></i></div>
+																	<div><span>Supplying machinery and vehicles for
+																			transporting and handling materials</span>
+																	</div>
+																</li>
+																<li class="elementor-repeater-item-e3e853c clr">
+																	<div class="cz_sl_icon"><i
+																			class="mr10 fas fa-circle"></i></div>
+																	<div><span>Supplying well testing and diagnosis
+																			equipment</span></div>
+																</li>
+															</ul>
+														</div>
+													</div>
+													<div class="elementor-element elementor-element-25f2537 elementor-widget elementor-widget-cz_button"
+														data-id="25f2537" data-element_type="widget"
+														data-widget_type="cz_button.default">
+														<div class="elementor-widget-container">
+															<div class="cz_btn_center">
+																<div>
+																	<a href="services/index.html"
+																		class="cz_btn cz_btn_txt_move_right cz_btn_no_fx cz_btn_icon_after">
+
+																		<span> <strong>READ MORE </strong>
+																			<i class="czi czico-long-right-arrow"></i>
+																		</span>
+
+																		<b class="cz_btn_onhover">
+																			<strong>
+																				OUR SERVICES </strong>
+																			<i class="czi czico-long-right-arrow"></i>
+																		</b>
+
+																	</a>
+																</div>
+															</div>
+														</div>
+													</div>
+												</div>
+											</div>
+											<div class="elementor-column elementor-col-25 elementor-top-column elementor-element elementor-element-2917f5d"
+												data-id="2917f5d" data-element_type="column">
+												<div class="elementor-widget-wrap elementor-element-populated">
+													<div class="elementor-element elementor-element-8ec2470 elementor-widget elementor-widget-cz_image"
+														data-id="8ec2470" data-element_type="widget"
+														data-widget_type="cz_image.default">
+														<div class="elementor-widget-container">
+
+															<div class="cz_image clr cz_image_no_fx center_on_mobile">
+
+																<div>
+
+																	<div class="cz_image_in">
+
+																		<div class="cz_main_image"><img loading="lazy"
+																				decoding="async" width="128"
+																				height="128"
+																				src="data:image/svg+xml,%3Csvg%20xmlns%3D&#39;http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg&#39;%20width=&#39;128&#39;%20height=&#39;128&#39;%20viewBox%3D&#39;0%200%20128%20128&#39;%2F%3E"
+																				data-czlz
+																				data-src="https://takns.com/oil/wp-content/uploads/2024/09/technology.png"
+																				class="attachment-full size-full wp-image-2290"
+																				alt="" /></div>
+
+																		<div class="cz_hover_image"><img loading="lazy"
+																				decoding="async" width="128"
+																				height="128"
+																				src="data:image/svg+xml,%3Csvg%20xmlns%3D&#39;http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg&#39;%20width=&#39;128&#39;%20height=&#39;128&#39;%20viewBox%3D&#39;0%200%20128%20128&#39;%2F%3E"
+																				data-czlz
+																				data-src="https://takns.com/oil/wp-content/uploads/2024/09/technology.png"
+																				class="attachment-full size-full wp-image-2290"
+																				alt="" /></div>
+																	</div>
+
+
+																</div>
+
+															</div>
+
+														</div>
+													</div>
+													<div class="elementor-element elementor-element-9c6dcc7 elementor-widget elementor-widget-cz_title"
+														data-id="9c6dcc7" data-element_type="widget"
+														data-widget_type="cz_title.default">
+														<div class="elementor-widget-container">
+
+															<div>
+																<div
+																	class="cz_title clr cz_mobile_text_center cz_title_pos_center tac">
+																	<div class="cz_title_content">
+																		<div class="cz_wpe_content">
+																			<h3 style="text-align: center;">Technology
+																				and digital solutions services</h3>
+																		</div>
+																	</div>
+																</div>
+															</div>
+
+														</div>
+													</div>
+													<div class="elementor-element elementor-element-2254606 elementor-widget elementor-widget-cz_stylish_list"
+														data-id="2254606" data-element_type="widget"
+														data-widget_type="cz_stylish_list.default">
+														<div class="elementor-widget-container">
+															<ul
+																class="cz_stylish_list clr center_on_mobile cz_sl_icon_hover_none">
+																<li class="elementor-repeater-item-17e2414 clr">
+																	<div class="cz_sl_icon"><i
+																			class="mr10 fas fa-circle"></i></div>
+																	<div><span>Developing and implementing advanced
+																			technological solutions</span></div>
+																</li>
+																<li class="elementor-repeater-item-a3d142a clr">
+																	<div class="cz_sl_icon"><i
+																			class="mr10 fas fa-circle"></i></div>
+																	<div><span>Data analysis and artificial intelligence
+																			services</span></div>
+																</li>
+																<li class="elementor-repeater-item-e3e853c clr">
+																	<div class="cz_sl_icon"><i
+																			class="mr10 fas fa-circle"></i></div>
+																	<div><span>Automation solutions and automatic
+																			control of processes</span></div>
+																</li>
+															</ul>
+														</div>
+													</div>
+													<div class="elementor-element elementor-element-e735b0b elementor-widget elementor-widget-cz_button"
+														data-id="e735b0b" data-element_type="widget"
+														data-widget_type="cz_button.default">
+														<div class="elementor-widget-container">
+															<div class="cz_btn_center">
+																<div>
+																	<a href="services/index.html"
+																		class="cz_btn cz_btn_txt_move_right cz_btn_no_fx cz_btn_icon_after">
+
+																		<span> <strong>READ MORE </strong>
+																			<i class="czi czico-long-right-arrow"></i>
+																		</span>
+
+																		<b class="cz_btn_onhover">
+																			<strong>
+																				OUR SERVICES </strong>
+																			<i class="czi czico-long-right-arrow"></i>
+																		</b>
+
+																	</a>
+																</div>
+															</div>
+														</div>
+													</div>
+												</div>
+											</div>
+											<div class="elementor-column elementor-col-25 elementor-top-column elementor-element elementor-element-ffca659"
+												data-id="ffca659" data-element_type="column">
+												<div class="elementor-widget-wrap elementor-element-populated">
+													<div class="elementor-element elementor-element-5438de3 elementor-widget elementor-widget-cz_image"
+														data-id="5438de3" data-element_type="widget"
+														data-widget_type="cz_image.default">
+														<div class="elementor-widget-container">
+
+															<div class="cz_image clr cz_image_no_fx center_on_mobile">
+
+																<div>
+
+																	<div class="cz_image_in">
+
+																		<div class="cz_main_image"><img loading="lazy"
+																				decoding="async" width="128"
+																				height="128"
+																				src="data:image/svg+xml,%3Csvg%20xmlns%3D&#39;http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg&#39;%20width=&#39;128&#39;%20height=&#39;128&#39;%20viewBox%3D&#39;0%200%20128%20128&#39;%2F%3E"
+																				data-czlz
+																				data-src="https://takns.com/oil/wp-content/uploads/2024/09/helmet.png"
+																				class="attachment-full size-full wp-image-2289"
+																				alt="" /></div>
+
+																		<div class="cz_hover_image"><img loading="lazy"
+																				decoding="async" width="128"
+																				height="128"
+																				src="data:image/svg+xml,%3Csvg%20xmlns%3D&#39;http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg&#39;%20width=&#39;128&#39;%20height=&#39;128&#39;%20viewBox%3D&#39;0%200%20128%20128&#39;%2F%3E"
+																				data-czlz
+																				data-src="https://takns.com/oil/wp-content/uploads/2024/09/helmet.png"
+																				class="attachment-full size-full wp-image-2289"
+																				alt="" /></div>
+																	</div>
+
+
+																</div>
+
+															</div>
+
+														</div>
+													</div>
+													<div class="elementor-element elementor-element-444d5bd elementor-widget elementor-widget-cz_title"
+														data-id="444d5bd" data-element_type="widget"
+														data-widget_type="cz_title.default">
+														<div class="elementor-widget-container">
+
+															<div>
+																<div
+																	class="cz_title clr cz_mobile_text_center cz_title_pos_center tac">
+																	<div class="cz_title_content">
+																		<div class="cz_wpe_content">
+																			<h3 style="text-align: center;">Engineering
+																				and project services</h3>
+																		</div>
+																	</div>
+																</div>
+															</div>
+
+														</div>
+													</div>
+													<div class="elementor-element elementor-element-841a272 elementor-widget elementor-widget-cz_stylish_list"
+														data-id="841a272" data-element_type="widget"
+														data-widget_type="cz_stylish_list.default">
+														<div class="elementor-widget-container">
+															<ul
+																class="cz_stylish_list clr center_on_mobile cz_sl_icon_hover_none">
+																<li class="elementor-repeater-item-17e2414 clr">
+																	<div class="cz_sl_icon"><i
+																			class="mr10 fas fa-circle"></i></div>
+																	<div><span>Engineering design services for oil
+																			facilities and infrastructure</span></div>
+																</li>
+																<li class="elementor-repeater-item-a3d142a clr">
+																	<div class="cz_sl_icon"><i
+																			class="mr10 fas fa-circle"></i></div>
+																	<div><span>Implementation and construction project
+																			management services</span></div>
+																</li>
+																<li class="elementor-repeater-item-e3e853c clr">
+																	<div class="cz_sl_icon"><i
+																			class="mr10 fas fa-circle"></i></div>
+																	<div><span>Engineering and planning services for
+																			expansions and developments</span></div>
+																</li>
+															</ul>
+														</div>
+													</div>
+													<div class="elementor-element elementor-element-d0fd382 elementor-widget elementor-widget-cz_button"
+														data-id="d0fd382" data-element_type="widget"
+														data-widget_type="cz_button.default">
+														<div class="elementor-widget-container">
+															<div class="cz_btn_center">
+																<div>
+																	<a href="services/index.html"
+																		class="cz_btn cz_btn_txt_move_right cz_btn_no_fx cz_btn_icon_after">
+
+																		<span> <strong>READ MORE </strong>
+																			<i class="czi czico-long-right-arrow"></i>
+																		</span>
+
+																		<b class="cz_btn_onhover">
+																			<strong>
+																				OUR SERVICES </strong>
+																			<i class="czi czico-long-right-arrow"></i>
+																		</b>
+
+																	</a>
+																</div>
+															</div>
+														</div>
+													</div>
+												</div>
+											</div>
+										</div>
+									</section>
